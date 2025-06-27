@@ -5,7 +5,7 @@ How to Update Your Nissan GPS System in 2025?: A Step-by-Step Guide 👍
    :maxdepth: 2
    :caption: Contents:
 
-.. image:: activate.png
+.. image:: update.png
    :alt: My Project Logo
    :width: 400px
    :align: center
